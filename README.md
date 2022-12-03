@@ -1,2 +1,1 @@
-# unknown.github.io
-This is a paid admin. This admin is in beta.
+# gituser11052.github.io
