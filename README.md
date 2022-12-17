@@ -7,5 +7,5 @@ Everything public here can be published (by me)
 So, *how do I get around here?*
 
 >Scroll down! There's tons of fun!
->>Mabye you find something you like!
+>>Maybe you find something you like!
 >>>There will be a bunch!
