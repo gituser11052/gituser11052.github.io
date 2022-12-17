@@ -1,13 +1,11 @@
-# welcome
+# Welcome to my Website
 
-**to my thing**
+**We have code!**
 
-*i guess*
+Everything public here can be published (by me)
 
-> How to monkey
->> First
->>> you monkey
->> Next
->>> you play gorilla tag
->> And finally,
-> you're done! 
+So, *how do I get around here?*
+
+>Scroll down! There's tons of fun!
+>>Mabye you find something you like!
+>>>There will be a bunch!
